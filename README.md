@@ -41,4 +41,8 @@ Tkinter (GUI)
 
 Pillow (PIL fork for image processing)
 
+📜 License
+
+MIT License. Free to use and modify.
+
 💡 Contributions and suggestions are welcome!
